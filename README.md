@@ -48,7 +48,6 @@ For more information, refer to the project documentation and user guide provided
 
 ### Emotions
 
-Angry
 ![angry](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/9e6279e6-550e-4138-a0af-fb519892d4b7)
 ![disgusted](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/5dd00ed6-ebb7-44cb-8f72-c8ed012aef83)
 ![fearful](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/d4e9f0b8-dc01-4ed7-9f30-fb79a753a8ee)
