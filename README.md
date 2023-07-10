@@ -2,6 +2,8 @@
 
 Facial Emotion Recognition using CNN and Computer Vision is an innovative project that utilizes deep learning techniques to recognize emotions from facial expressions. The project aims to develop a graphical user interface (GUI) using the tkinter module in Python for easy and intuitive interaction with the application.
 
+![Final_output](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/b70abf1e-8ebe-40ed-a59a-28b9aa4bf6a0)
+
 ### Features
 
 - Utilizes Convolutional Neural Networks (CNNs) for feature extraction and classification of facial emotions.
