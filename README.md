@@ -46,6 +46,17 @@ Feel free to explore the code and modify it according to your requirements. Don'
 
 For more information, refer to the project documentation and user guide provided in the repository.
 
+### Emotions
+
+![angry](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/9e6279e6-550e-4138-a0af-fb519892d4b7)
+![disgusted](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/5dd00ed6-ebb7-44cb-8f72-c8ed012aef83)
+![fearful](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/d4e9f0b8-dc01-4ed7-9f30-fb79a753a8ee)
+![happy](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/f8e9f9d0-b4d8-4926-bb16-ca003eb69f58)
+![neutral](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/d7ea539a-5b5d-47e4-8bca-bb89fe7ed1d8)
+![sad](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/0929cee8-5ce8-4281-8089-a11dba9049b7)
+![surpriced](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/79e39775-bc86-4291-9ad2-3d82dae9c7fa)
+
+
 ### Conclusion
 
 Facial Emotion Recognition using CNN and Computer Vision is an innovative project that integrates deep learning techniques, computer vision, and a graphical user interface to detect and classify facial emotions in real-time. With its potential applications in healthcare, education, and entertainment, the system opens up new possibilities for emotion analysis and interaction. The intuitive GUI provides a user-friendly interface for easy interaction with the application.
