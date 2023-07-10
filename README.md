@@ -48,6 +48,7 @@ For more information, refer to the project documentation and user guide provided
 
 ### Emotions
 
+Angry
 ![angry](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/9e6279e6-550e-4138-a0af-fb519892d4b7)
 ![disgusted](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/5dd00ed6-ebb7-44cb-8f72-c8ed012aef83)
 ![fearful](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/d4e9f0b8-dc01-4ed7-9f30-fb79a753a8ee)
@@ -56,6 +57,15 @@ For more information, refer to the project documentation and user guide provided
 ![sad](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/0929cee8-5ce8-4281-8089-a11dba9049b7)
 ![surpriced](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/79e39775-bc86-4291-9ad2-3d82dae9c7fa)
 
+### Emojis related to Emotions
+
+![anger](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/2e96c811-c7da-45f6-9e14-703fc66e38c4)
+![Disgusted](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/6ec0dfdf-226d-47e1-aa14-912b7175b960)
+![Fearful](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/d29d729b-1077-461c-ae80-128e4611aabc)
+![Happy](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/cd2fcc94-4a3e-4f48-a1fe-bf38be83402d)
+![Neutral](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/9fa18e88-c3f8-4441-a367-9dc90ae31778)
+![Sad](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/4ca622d7-51c2-4cc7-8a10-bcdb06142325)
+![Surprised](https://github.com/Raghul-Deva-kanini/Facial_Emotion_Recognition/assets/127297925/35af6042-6815-4253-a934-c319c60eaf03)
 
 ### Conclusion
 
